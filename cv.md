@@ -1,9 +1,9 @@
 # Irakliy Stefanidi
 
 ## Contacts:
-##### e-mail: arxitektonas@mail.ru
-##### Telegram: Irakliy Stefanidi
-##### Discord: Irakliy Stefan (@IraklisSt)
+##### *e-mail: arxitektonas@mail.ru*
+##### *Telegram: Irakliy Stefanidi*
+##### *Discord: Irakliy Stefan (@IraklisSt)*
 ## Few words about myself
 I work as the chief project engineer in design of buildings and constructions.
 Now I study frontend. I learn new.
