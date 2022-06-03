@@ -10,9 +10,9 @@ Now I study frontend. I learn new.
 I got used to work with the large volume of information and to approach responsibly work.
 I hope that I will achieve the objectives in frontend.
 ## My skills
-- HTML5
-- CSS3/SASS(SCSS)
-- Basic JS
+- *HTML5*
+- *CSS3/SASS(SCSS)*
+- *Basic JS*
 ## Example of a code
 ``` 
 function f1() {
