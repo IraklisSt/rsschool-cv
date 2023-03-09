@@ -13,4 +13,19 @@ I hope that I will achieve the objectives in frontend.
 - *HTML5*
 - *CSS3/SASS(SCSS)*
 - *Basic JS*
-
+## Example of a code
+``` 
+function f1() {
+    let out = '';
+    let a1 = [[1, 2], [3, 4], [5, 6], [21, 34], [44, 56]];
+    
+    for (let i = 0; i < a1.length; i++) {
+        if (a1[i][0] % 2 == 0) out += a1[i][0] + ' ';
+        if (a1[i][1] % 2 == 0) out += a1[i][1] + ' ';
+    }
+    document.querySelector('.out-1').innerHTML = out;
+}
+document.querySelector('.b-1').onclick = f1;
+```
+## Experience
+My CV
