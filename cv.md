@@ -29,3 +29,9 @@ document.querySelector('.b-1').onclick = f1;
 ```
 ## Experience
 My CV
+## Education
+- https://learn.javascript.ru/
+- https://itgid.info/
+- https://www.udemy.com/course/javascript-ru/
+## English level
+A1 (Elementary)
